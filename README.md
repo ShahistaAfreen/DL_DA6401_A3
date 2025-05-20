@@ -13,10 +13,10 @@ Please install following packages in your local machine.
 ## IPython Notebook Links
  | Question  | Link  |Colab|
 | --- | ----------- | ----------- | 
-|Question 1,2,3,4 | [NoteBook](https://github.com/kankancs21m026/cs6910_assignment3/blob/main/DL_Assignment3_bestmodel.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XvRNNd4p-Vi4hc9LFXQc6SavUvsSPr69?usp=sharing)|
-|Question 2(Vanilla sweep)| [NoteBook](https://github.com/kankancs21m026/cs6910_assignment3/blob/main/DL_Assignment3_Sweep.ipynb)|[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m9cEvnt8-6X37DSdTtd1ah0JAlS9BypG?usp=sharing)|
-|Question 5(Attention Sweep)| [Sweep](https://github.com/kankancs21m026/cs6910_assignment3/blob/main/assignment_3_With_attention_sweep.ipynb)|[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CYzgZo3MS0qpi2fYousCdVcAAXRz7RGQ?usp=sharingg)|
-|Question 6,7(Attention Best Model)| [Best Model](https://github.com/kankancs21m026/cs6910_assignment3/blob/main/DL_Assignment3_bestmodel_Attention.ipynb)|[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ukUAwCJGfhbuqOAqFqDR0oxq1epsl8h6?usp=sharing)|
+|Question 1,2,3,4 | [NoteBook](https://github.com/ShahistaAfreen/DL_DA6401_A3/blob/main/bestmodel_without_attention.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XvRNNd4p-Vi4hc9LFXQc6SavUvsSPr69?usp=sharing)|
+|Question 2(Vanilla sweep)| [NoteBook](https://github.com/ShahistaAfreen/DL_DA6401_A3/blob/main/Sweep_Without_Attention.ipynb)|[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m9cEvnt8-6X37DSdTtd1ah0JAlS9BypG?usp=sharing)|
+|Question 5(Attention Sweep)| [Sweep](https://github.com/ShahistaAfreen/DL_DA6401_A3/blob/main/Sweep_with_attention_.ipynb)|[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CYzgZo3MS0qpi2fYousCdVcAAXRz7RGQ?usp=sharingg)|
+|Question 6,7(Attention Best Model)| [Best Model](https://github.com/ShahistaAfreen/DL_DA6401_A3/blob/main/bestmodel_Attention.ipynb)|[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ukUAwCJGfhbuqOAqFqDR0oxq1epsl8h6?usp=sharing)|
 
 
 # Command Line
