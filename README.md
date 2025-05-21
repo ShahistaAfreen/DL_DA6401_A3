@@ -74,13 +74,13 @@ The default implementation focuses on Telugu ('te') but supports all 12 language
 ### Running from Command Line
 
 ```bash
-python Seq2Seq.py --language="te" --optimizer="adam" --lr="0.0005" \
+python Seq2Seq.py --language="te" --optimizer="adam" --lr="0.05" \
                   --dropout="0.5" --inp_emb_size="64" --epoch="25" \
                   --cell_type="lstm" --num_of_encoders="1" \
                   --num_of_decoders="1" --patience="5" \
                   --batch_size="128" --latent_dim="256" \
                   --attention="False" --teacher_forcing_ratio="1" \
-                  --save_outputs="save.csv"
+                  --save_outputs="output.csv"
 ```
 
 ### Parameters
@@ -89,7 +89,7 @@ python Seq2Seq.py --language="te" --optimizer="adam" --lr="0.0005" \
 |-----------|-------------|---------|---------|
 | language | Target language | 'te' | 'bn', 'gu', 'hi', 'kn', 'ml', 'mr', 'pa', 'sd', 'si', 'ta', 'te', 'ur' |
 | optimizer | Optimization algorithm | 'adam' | 'adam', 'rmsprop' |
-| lr | Learning rate | 0.0005 | Any float value |
+| lr | Learning rate | 0.05 | Any float value |
 | dropout | Dropout rate | 0.5 | Any float value (0-1) |
 | inp_emb_size | Word embedding size | 64 | Any integer |
 | epoch | Training epochs | 25 | Any integer |
